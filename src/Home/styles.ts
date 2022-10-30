@@ -17,7 +17,8 @@ export const styles = StyleSheet.create({
   },
   camera: {
     width: Dimensions.get("screen").width - 58,
-    height: 300
+    height: 300,
+    backgroundColor: '#bbb',
   },
   player: {
     width: '100%',
